@@ -1,0 +1,118 @@
+
+.encabezado{
+    background: white;
+    width: 100%;/*ancho*/
+    height: 200px;/*alto*/
+
+}
+
+.Mensaje{
+    background: rgba(216, 216, 241, 0.938); 
+    text-align: center;   
+    width: 1000px;/*ancho*/
+    height: 300px;/*alto*/
+    border-radius: 15px;
+    margin: 30px;
+    padding: .8em;
+    line-height: 100px;
+    position: static;
+    top: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    color:rgb(58, 58, 65)
+    
+}
+
+.Funcion{
+    background: rgb(53, 53, 250); 
+    text-align: center;   
+    width: 1000px;
+    height: 100px;
+    border-radius: 15px;
+    margin: 30px;
+    padding: .8em;
+   
+}
+
+.inversa{
+    background: rgba(216, 216, 241, 0.938); 
+    text-align: center;   
+    width: 400px;
+    height: 670px;
+    border-radius: 15px;
+    margin: 30px;
+    padding: .8em; 
+    line-height: 200px;/*alinea texto en medio del bloque */
+    position: absolute;
+	top:0;
+	bottom:0px;
+	right:100;
+	left:1040;
+    /*display: none;*/
+
+}
+
+.imagen2{
+    
+    position: absolute;
+	top:0;
+	bottom:0px;
+	left:870;
+}
+
+.imagen1{
+    float: left;
+}
+
+.imagen3{
+    position: absolute;
+    top:30;
+	bottom:0px;
+	left:130;
+      
+}
+
+.btn{
+    position: absolute;
+    width: 200px;/*ancho*/
+    height: 30px;/*alto*/
+    left: 700;
+    top: 640;
+}
+
+.btn2{
+    position: absolute;
+    width: 200px;/*ancho*/
+    height: 30px;/*alto*/
+    left: 250;
+    top: 640;
+}
+
+.btn3{
+    position: absolute;
+    width: 200px;/*ancho*/
+    height: 30px;/*alto*/
+    bottom:200px;
+    right:100;
+	top: 500;
+}
+
+.box{
+
+    position: absolute;
+    width: 300px;/*ancho*/
+    height: 30px;/*alto*/
+    bottom:200px;
+    right:45;
+	top: 350; 
+}
+
+.box1{
+
+    position: absolute;
+    width: 300px;/*ancho*/
+    height: 30px;/*alto*/
+    bottom:200px;
+    left:400;
+	top: 450; 
+}
